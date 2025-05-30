@@ -4,7 +4,7 @@
 		"leaderName": "Heraclius",
 		"adjective": ["God"],
 		"startBias": ["Desert"],
-		"preferredVictoryType": ["Domination","Cultural"],
+		"preferredVictoryType": "Cultural",
 		"personality": "Theodora",
 		"startIntroPart1": "Emperor Heraclius of the Eastern Roman Empire",
 		"startIntroPart2": "After the fall of western rome to its many enemies and its own corruption, what remained of the empire was to the east, and their emperor Heraclius stood strong against the invading persian army and fought them back, though he try to restore rome to its full might, eventually the eastern roman empire would budge as well. You, Emperor Heraclius must lead your people to greatness once more through your many cultural feats, or bloodshed if must.",
