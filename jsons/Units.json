@@ -24,7 +24,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Can carry [3] [Human player] units"],
+		"uniques": ["Can carry [3] [Friendly] units"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	}
