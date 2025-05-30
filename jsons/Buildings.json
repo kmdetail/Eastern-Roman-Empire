@@ -1,17 +1,14 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
+		"name": "Walls of Constantinople",
+		"replaces": "Walls",
+		"cost": 65,
+		"uniqueTo": "Eastern Rome",
+		"cityStrength": 8,
+		"cityHealth": 115,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured","[+5 faith +2 happiness +2 culture] [in this city]]
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
