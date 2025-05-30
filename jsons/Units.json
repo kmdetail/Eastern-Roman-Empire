@@ -18,14 +18,12 @@
 		"uniqueTo": "Eastern Rome",
 		"replaces": "Swordsman",
 		"movement": 3,
-		"strength": 15,
-		"cost": 75,
+		"cost": "75",
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"uniques": ["Can carry [3] [Friendly] units"],
 		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
 	}
 ]
