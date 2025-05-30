@@ -9,6 +9,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured","[+5 faith +2 happiness +2 culture] [in this city]"],
+	}
 	{
 		"name": "Horrea",
 		"replaces": "Granary",
@@ -20,4 +21,5 @@
 			"[+2 Food] from [Wheat] tiles [in this city]",
 		        "[+2 Culture] [in this city]"],
 		"requiredTech": "Pottery"
+	}
 ]
