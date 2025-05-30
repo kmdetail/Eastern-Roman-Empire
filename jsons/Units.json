@@ -12,4 +12,10 @@
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	}
+	{
+	        "name": "Byzantium Legion",
+		"unitType": "melee",
+		"replaces": "swordsman",
+		"uniqueTo": "Eastern Rome",
+		"uniques": [
 ]
