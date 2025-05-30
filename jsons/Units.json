@@ -14,7 +14,7 @@
 	}
 	{
 	        "name": "Byzantium Legion",
-		"unitType": "Aircraft Carrier",
+		"unitType": "Sword",
 		"uniqueTo": "Eastern Rome",
 		"replaces": "Swordsman",
 		"movement": 3,
@@ -24,7 +24,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Can carry [3] [Military] units"],
+		"uniques": ["Cannot Attack","Can carry [3] [Military] units"],
 		"hurryCostModifier": 20,
 	}
 ]
