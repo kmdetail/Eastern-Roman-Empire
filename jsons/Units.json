@@ -14,7 +14,7 @@
 	}
 	{
 	        "name": "Byzantium Legion",
-		"unitType": "Military Carrier",
+		"unitType": "Aircraft Carrier",
 		"uniqueTo": "Eastern Rome",
 		"replaces": "Swordsman",
 		"movement": 3,
