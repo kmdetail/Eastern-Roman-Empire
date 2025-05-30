@@ -1,1 +1,11 @@
-
+[
+  {
+    "name": "Roman Wall",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+		"turnsToBuild": 6,
+		"techRequired": "Engineering",
+		"uniques": ["Can be built just outside your borders", "Gives a defensive bonus of [200]%",
+    Adjacent enemy units ending their turn take [15] damage","Great Improvement"],
+		"shortcutKey": "O"
+  }
+]
