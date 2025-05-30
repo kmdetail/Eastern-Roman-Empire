@@ -14,7 +14,7 @@
 	}
 	{
 	        "name": "Byzantium Legion",
-		"unitType": "Sword",
+		"unitType": "Civilian",
 		"uniqueTo": "Eastern Rome",
 		"replaces": "Swordsman",
 		"movement": 3,
