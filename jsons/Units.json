@@ -24,7 +24,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Cannot Attack","Can carry [3] [Military] units"],
+		"uniques": ["Cannot Attack","Can carry [3] [Land] units"],
 		"hurryCostModifier": 20,
 	}
 ]
