@@ -24,7 +24,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Can carry [3] [Melee] units"],
+		"uniques": ["Can carry [3] [Military] units"],
 		"hurryCostModifier": 20,
 	}
 ]
