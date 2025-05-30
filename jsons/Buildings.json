@@ -10,13 +10,14 @@
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured","[+5 faith +2 happiness +2 culture] [in this city]]
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+		"name": "Horrea",
+		"replaces": "Granary",
+		"food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+2 Food] from [Wheat] tiles [in this city]",
+		        "[+2 Culture] [in this city]"],
+		"requiredTech": "Pottery"
 ]
