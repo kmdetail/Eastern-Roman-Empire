@@ -3,6 +3,7 @@
 		"name": "Stratego",
 		"unitType": "Civilian",
                 "replaces": "Great General",
+		"uniqueTo": "Eastern Rome",
 		"uniques": [
             "[+20]% Strength bonus for [Military] units within [2] tiles",
             "Can instantly construct a [Roman Wall] improvement <by consuming this unit>",
