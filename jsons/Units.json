@@ -14,8 +14,19 @@
 	}
 	{
 	        "name": "Byzantium Legion",
-		"unitType": "melee",
-		"replaces": "swordsman",
+		"unitType": "Sword",
 		"uniqueTo": "Eastern Rome",
-		"uniques": [
+		"replaces": "Swordsman",
+		"movement": 3,
+		"strength": 15,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["Can carry [3] [Human player] units"],
+		"promotions": "Discipline",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	}
 ]
