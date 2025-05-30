@@ -8,7 +8,7 @@
 		"cityHealth": 115,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured","[+5 faith +2 happiness +2 culture] [in this city]]
+		"uniques": ["Destroyed when the city is captured","[+5 faith +2 happiness +2 culture] [in this city]"],
 	{
 		"name": "Horrea",
 		"replaces": "Granary",
