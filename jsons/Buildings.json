@@ -8,8 +8,8 @@
 		"cityHealth": 115,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured","[+5] faith [in this city]",
-		"[+2] Happiness [in this city]","[+2] Culture [in this city]"],
+		"uniques": ["Destroyed when the city is captured","[+5 faith] [in this city]",
+		"[+2 Happiness] [in this city]","[+2 Culture] [in this city]"],
 	}
 	{
 		"name": "Horrea",
