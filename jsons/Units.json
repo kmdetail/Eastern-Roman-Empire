@@ -25,7 +25,6 @@
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"uniques": ["Can carry [3] [Human player] units"],
-		"promotions": "Discipline",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	}
