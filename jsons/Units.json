@@ -7,6 +7,7 @@
 		"uniques": [
             "[+20]% Strength bonus for [Military] units within [2] tiles",
             "Can instantly construct a [Roman Wall] improvement <by consuming this unit>",
+	    "Can carry [3] [Land] units <when adjacent to a [Land] unit>",
 			"Can be earned through combat",
             "Is part of Great Person group [General]",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
@@ -18,13 +19,12 @@
 		"uniqueTo": "Eastern Rome",
 		"replaces": "Swordsman",
 		"movement": 3,
-		"strength": 15
+		"strength": 17
 		"cost": "75",
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Can carry [3] [Land] units <when adjacent to a [Land] unit>"],
 		"hurryCostModifier": 20,
 	}
 ]
