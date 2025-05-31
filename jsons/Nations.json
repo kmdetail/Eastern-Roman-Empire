@@ -30,11 +30,9 @@
 		"outerColor": [255, 215, 0],
 		"innerColor": [102, 2, 60],
 		"uniqueName": "A Dream of Rome",
-		"uniqueText": "Gain [+10 Culture] for every [150 faith]. Upon capturing a city, receive 5 times its [Gold] production as [Faith] immediately. 
-		150% production when constructing units in all cities for 5 turns when declaring war with a major civ.
+		"uniqueText": "Gain [+10 Culture] for every [150 faith]. Upon capturing a city, receive 5 times its [Gold] production as [Faith] immediately.
                 May choose [1] additional belief(s) of any type when [founding] a religion",
-		"uniques": ["[+10 Culture] per every [150] [Faith]","Upon capturing a city, receive [5] times its [Gold] production as [Faith] immediately",
-		"[150]% Production when constructing [Military] units [in your cities] <upon declaring war with a major Civilization> <for [5] turns>","May choose [1] additional belief(s) of any type when [founding] a religion"],
+		"uniques": ["[+10 Culture] per every [150] [Faith]","Upon capturing a city, receive [5] times its [Gold] production as [Faith] immediately","May choose [1] additional belief(s) of any type when [founding] a religion"],
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
 			"Tyana", "Gaza", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
