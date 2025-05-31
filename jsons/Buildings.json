@@ -24,4 +24,14 @@
 		        "[+2 Culture] [in this city]"],
 		"requiredTech": "Pottery"
 	}
+	{
+		"name": "Theme",
+		"replaces": "Barracks",
+		"uniqueTo": "Eastern Rome",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[3] free [Byzantium Legion] units appear <in this city> <upon declaring war with a major Civilization>",
+			"New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
 ]
