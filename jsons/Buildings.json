@@ -30,8 +30,8 @@
 		"uniqueTo": "Eastern Rome",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[3] free [Byzantium Legion] units appear <in this city> <upon declaring war with a major Civilization>",
-			"New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["[50]% Production when constructing [Military] units [in this city] <when at war>",
+			"New [Military] units start with [25] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
 ]
