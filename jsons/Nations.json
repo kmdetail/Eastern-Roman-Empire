@@ -34,7 +34,7 @@
                 May choose [1] additional belief(s) of any type when [founding] a religion",
 		"uniques": ["[+10 Culture] per every [150] [Faith]","Upon capturing a city, receive [5] times its [Gold] production as [Faith] immediately",
 			"May choose [1] additional belief(s) of any type when [founding] a religion",
-		"Gain control over [all] tiles in a [3]-tile radius <upon building a [Roman Wall] improvement>"],
+		"Gain control over [all] tiles in a [2]-tile radius <upon building a [Roman Wall] improvement>"],
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
 			"Tyana", "Gaza", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
