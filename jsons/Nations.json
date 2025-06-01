@@ -30,8 +30,8 @@
 		"outerColor": [255, 215, 0],
 		"innerColor": [102, 2, 60],
 		"uniqueName": "A Great Defense",
-		"uniqueText": ["Gain [+8 Culture] for every [200 faith]. Upon capturing a city receive 5 times its [Gold] production as [Faith] immediately.
-                Stratego is earned 75% faster. Gain control of all tiles in a 1 tile radius upon creating a roman wall improvement."],
+		"uniqueText": "For every 200 faith, gain +8 culture. When conquering a city, gain 5x its gold production as faith.
+		stratego units are earned 75% faster. Gain control over all land in a 1 tile radius when building a roman wall improvement."
 		"uniques": ["[+8 Culture] per every [200] [Faith]","Upon capturing a city, receive [5] times its [Gold] production as [Faith] immediately"
 			,"[Stratego] is earned [75]% faster","Gain control over [all] tiles in a [1]-tile radius <upon building a [Roman Wall] improvement>"],
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
