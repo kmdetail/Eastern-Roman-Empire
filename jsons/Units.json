@@ -7,7 +7,6 @@
 		"uniques": [
             "[+20]% Strength bonus for [Military] units within [2] tiles",
             "Can instantly construct a [Roman Wall] improvement <by consuming this unit>",
-			"Gain control over [all] tiles in a [1]-tile radius <upon building a [Roman Wall] improvement>",
 	    "Can carry [3] [Land] units",
 			"Can be earned through combat",
             "Is part of Great Person group [General]",
