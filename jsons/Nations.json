@@ -30,10 +30,10 @@
 		"outerColor": [255, 215, 0],
 		"innerColor": [102, 2, 60],
 		"uniqueName": "A Great Defense",
-		"uniqueText": "Gain [+10 Culture] for every [150 faith]. Upon capturing a city, receive 5 times its [Gold] production as [Faith] immediately.
-                May choose [1] additional belief(s) of any type when [founding] a religion",
-		"uniques": ["[+10 Culture] per every [150] [Faith]","Upon capturing a city, receive [5] times its [Gold] production as [Faith] immediately",
-			"May choose [1] additional belief(s) of any type when [founding] a religion",
+		"uniqueText": "Gain [+8 Culture] for every [200 faith]. Upon capturing a city, receive 5 times its [Gold] production as [Faith] immediately.
+                May choose [1] additional belief(s) of any type when [founding] a religion, Stratego is earned 75% faster.",
+		"uniques": ["[+8 Culture] per every [200] [Faith]","Upon capturing a city, receive [5] times its [Gold] production as [Faith] immediately",
+			"May choose [1] additional belief(s) of any type when [founding] a religion","[Stratego] is earned [75]% faster",
 		"Gain control over [all] tiles in a [1]-tile radius <upon building a [Roman Wall] improvement>"],
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
